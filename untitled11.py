@@ -8,7 +8,7 @@ Original file is located at
 """
 
 key = "gsk_eV7b7QPHYZxDpUjVfjcWWGdyb3FY6Rs5Y9P4ySL2nmh6KNs3EmGw_____gsk_YQjTCePByA8HyRCpBcpUWGdyb3FYEMJbRREye9hqfrkpG8VA0M4e"
-
+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
 import os
 os.environ["GOOGLE_API_KEY"] = key
 
